@@ -1,5 +1,11 @@
 hola, soy estudiante de 3° semestre, clase de eventos 👋
-
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
 <!--
 **mujanajinsoy-jajoy/mujanajinsoy-jajoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
