@@ -1,4 +1,4 @@
-hola, soy estudiante de 3° semestre, clase de eventos 👋
+Hola, soy estudiante de ingenieria de sistemas, es muy grato para mi estar en este campo de la tecnologia, y a medidad que pase el tiempo quiero seguir mejorando mis habilidades como programador 👋
 ```mermaid
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
