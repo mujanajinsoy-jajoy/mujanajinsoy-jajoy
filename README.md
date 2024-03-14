@@ -1,5 +1,5 @@
 Hola, soy estudiante de ingenieria de sistemas, es muy grato para mi estar en este campo de la tecnologia, y a medidad que pase el tiempo quiero seguir mejorando mis habilidades como programador 👋
-//```mermaid
+```mermaid
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
@@ -19,4 +19,4 @@ C --> D
 **- 📫 How to reach me: ...
 **- 😄 Pronouns: ...
 **- ⚡ Fun fact: ...
-**-->//
+**-->
